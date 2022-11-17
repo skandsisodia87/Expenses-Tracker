@@ -20,6 +20,7 @@
 - The app should be running at http://localhost:3000
 
 <h1>Technology Used</h1>
+
 Some libraries used that deserves mentioning.
 
 - Prime React - The UI components used in the project on top of free template Sigma.
